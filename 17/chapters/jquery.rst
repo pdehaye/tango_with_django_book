@@ -1,5 +1,10 @@
 .. _jquery:
 
+
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+
+
 JQuery and Django
 =================
 JQuery rocks! JQuery is a library written in Javascript that seriously pimps its power and utility. A few lines of JQuery often encapsulates hundreds of lines of javascript. JQuery provides a suite of functionality that is mainly focused on manipulating HTML elements. In this chapter, we will describe:

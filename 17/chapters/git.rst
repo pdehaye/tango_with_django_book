@@ -1,5 +1,9 @@
 .. _git-crash-course:
 
+
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+
 A Git Crash Course
 ------------------
 We strongly recommend that you spend some time familiarising yourself with a version control system. For your benefit, this section provides you with a crash course in how to use `Git <http://en.wikipedia.org/wiki/Git_(software)>`_, one of the many version control systems available. Originally developed by `Linus Torvalds <http://en.wikipedia.org/wiki/Linus_Torvalds>`_, Git is today very popular, and is used by open-source and closed-source projects alike.

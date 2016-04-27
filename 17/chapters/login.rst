@@ -1,5 +1,8 @@
 .. _login-label:
 
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+
 User Authentication
 ===================
 The aim of this next part of the tutorial is to get you familiar with the user authentication mechanisms provided by Django. We'll be using the ``auth`` application provided as part of a standard Django installation in package ``django.contrib.auth``. According to `Django's official documentation on Authentication <https://docs.djangoproject.com/en/1.7/topics/auth/>`_, the application consists of the following aspects.

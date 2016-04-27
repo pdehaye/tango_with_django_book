@@ -1,5 +1,10 @@
 .. _templates-label:
 
+
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+	
+
 Templates and Static Media
 ==========================
 In this chapter, we'll be extending your knowledge of Django by introducing you to the template engine as well as how to serve *static media* within your web pages. 

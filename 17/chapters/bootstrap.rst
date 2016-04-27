@@ -1,5 +1,8 @@
 .. _bootstrap-chapter:
 
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+
 Bootstrapping Rango
 ===================
 In this chapter, we will be styling Rango using the *Twitter Bootstrap 3.2* toolkit. We won't go into the details about how Bootstrap works, and we will be assuming you have some familiarity with CSS. If you don't, check out the CSS chapter so that you understand the basics and then check out some Bootstrap tutorials. However, you should be able to go through this section and piece things together.

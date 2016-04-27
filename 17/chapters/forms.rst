@@ -1,5 +1,9 @@
 .. _forms-label:
 
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+
+
 Fun with Forms
 ==============
 So far we have only presented data through the views and templates that we have created. In this chapter, we will run through how to capture data through web forms. Django comes with some neat form handling functionality, making it a pretty straightforward process to gather information from users and send it back to your web application. According to `Django's documentation on forms <https://docs.djangoproject.com/en/1.7/topics/forms/>`_, the form handling functionality allows you to:

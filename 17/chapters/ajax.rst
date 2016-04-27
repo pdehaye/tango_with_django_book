@@ -1,5 +1,9 @@
 .. _ajax-label:
 
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+
+
 AJAX in Django with JQuery
 ==========================
 AJAX essentially is a combination of technologies that are integrated together to reduce the number of page loads. Instead of reloading the full page, only part of the page or the data in the page is reloaded. 	If you haven't used AJAX before or would like to know more about it before using it, check out the resources at the Mozilla website: https://developer.mozilla.org/en-US/docs/AJAX
