@@ -1,5 +1,9 @@
 .. _overview-label:
 
+.. note::
+	A newer version of this tutorial using Django 1.9 is available from `Leanpub: https://leanpub.com/tangowithdjango19 <https://leanpub.com/tangowithdjango19>`_
+
+
 Overview
 ========
 The aim of this book is to provide you with a practical guide to web development using *Django 1.7.* The book is designed primarily for students, providing a walkthrough of the steps involved in getting your first web applications up and running, as well as deploying them to a web server.
