@@ -431,7 +431,7 @@ To get comfortable with your environment, try out the following exercises.
 * Setup your Virtual Environment
 * Setup your account on GitHub
 * Download and setup a Integrated Development Environemnt (like PyCharm)
-* We have made the code for the book and application that you build available on GitHub, see `Tango With Django Book <https://github.com/leifos/tango_with_django_book>`_  and  `Rango Application <https://github.com/leifos/tango_with_django>`_ .
+* We have made the code for the book and application that you build available on GitHub, see `Tango With Django Book <https://github.com/leifos/tango_with_django_book>`_  and  `Rango Application <https://github.com/leifos/tango_with_django_17>`_ .
 	* If you spot any errors or problem with the book, you can make a change request! 
 	* If you have any problems with the exercises, you can check out the repository and see how we completed them.
 
