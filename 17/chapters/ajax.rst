@@ -199,7 +199,7 @@ Using the ``get_category_list`` function we can now create a view that returns t
 		
 		cat_list = get_category_list(8, starts_with)
 			
-		return render(request, 'rango/category_list.html', {'cat_list': cat_list })
+		return render(request, 'rango/category_list.html', {'cats': cat_list })
 
 Note here we are re-using the ``rango/cats.html`` template :-). 
 
